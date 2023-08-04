@@ -1,4 +1,13 @@
-## Hey there 👋! I'm Amy Gardiner, a junior web developer and project coordinator in the St. Louis area. With a strong background in copywriting, social media marketing, event organizing, and management, I bring a unique blend of technical expertise and creative insight to every project.
+## Hey there 👋!
+##I'm Amy Gardiner, a junior web developer and project coordinator in the St. Louis area. With a strong background in copywriting, social media marketing, event organizing, and management, I bring a unique blend of technical expertise and creative insight to every project.
+
+### I’m currently working on ...
+
+### I’m currently learning ...
+
+### <u> About </u> 
+- Pronouns: she/her
+- How to reach me: amymgardiner@gmail.com
 
 <!--
 **amymgardiner/amymgardiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
