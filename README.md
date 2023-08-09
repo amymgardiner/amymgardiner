@@ -7,7 +7,7 @@
 - White Klump Wedding Photography
 
 ### 🤔 I’m currently learning:
-- PostCSS
+- PostCSS and Sass in a React App
 
 ### 💻 I've done WordPress web development for:
 - Galvanize Recycling
