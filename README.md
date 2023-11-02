@@ -5,6 +5,7 @@
 - PostCSS and Sass in a React App
 
 ### 💻 I've done WordPress web development for:
+- Sure Sports
 - Buffalo Corporation
 - Thompson Center for Autism & Neurodevelopmental Disorders
 - Foulger-Pratt
