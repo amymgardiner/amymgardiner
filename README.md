@@ -5,21 +5,22 @@
 - PostCSS and Sass in a React App
 
 ### 💻 I've done WordPress web development for:
+- 6Storage
 - Sure Sports
 - Buffalo Corporation
 - Thompson Center for Autism & Neurodevelopmental Disorders
 - Foulger-Pratt
 - Galvanize Recycling
+- University of Health Sciences and Pharmacy in St. Louis
 - Jefferson City Magazine
 - Kate + Company
 - The Kestrel Co.
 - River Region Credit Union
-- University of Health Sciences and Pharmacy in St. Louis
 
 ### 🌐 I've done SEO for:
 - Sure Sports
-- Elevate Outdoor
 - Mallinckrodt Institute of Radiology
+- Elevate Outdoor
 
 ### ✍ I've done copywriting for:
 - The Kestrel Co.
